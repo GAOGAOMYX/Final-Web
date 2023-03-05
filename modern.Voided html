@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Introduction to Chinese Porcelain - Modern Porcelain</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<h1>Introduction to Chinese Porcelain</h1>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="classification.html">Classification</a></li>
+					<li><a href="history.html">Porcelain History</a></li>
+					<li><a href="production.html">Porcelain Production</a></li>
+					<li><a style="background-color: skyblue;" href="modern.html">Modern Porcelain</a></li>
+                    <li><a href="traditional.html">Traditional Porcelain</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<section id="modern">
+			<div class="container">
+				<h2>Modern Porcelain</h2>
+				<p>Modern porcelain incorporates elements of contemporary design and technology into traditional porcelain to create a more diverse and exquisite range of products. The following are some well-known modern porcelain brands:</p>
+				<ul>
+					<li>THUNIPER (Tsinghua Tongfang)</li>
+					<li>TASTO (CITIC Taifu)</li>
+					<li>Patek Philippe (Switzerland)</li>
+					<li>Royal Doulton (UK)</li>
+					<li>KINTO (Japan)</li>
+					<li>Villeroy & Boch (Germany)</li>
+				</ul>
+			</div>
+		</section>
+	</main>
+	
+
+</body>
+</html>

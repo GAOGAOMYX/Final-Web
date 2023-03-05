@@ -1,0 +1,59 @@
+<!--
+ * @Author: ash 1206217862@qq.com
+ * @Date: 2023-02-26 09:08:02
+ * @LastEditors: ash 1206217862@qq.com
+ * @LastEditTime: 2023-02-26 12:08:13
+ * @FilePath: \网站2\traditional.html
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<!--
+ * @Author: ash 1206217862@qq.com
+ * @Date: 2023-02-26 09:08:02
+ * @LastEditors: ash 1206217862@qq.com
+ * @LastEditTime: 2023-02-26 12:08:06
+ * @FilePath: \网站2\traditional.html
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Introduction to Chinese Porcelain - Traditional Porcelain</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<h1>Introduction to Chinese Porcelain</h1>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="classification.html">Classification</a></li>
+					<li><a href="history.html">Porcelain History</a></li>
+					<li><a href="production.html">Porcelain Production</a></li>
+					<li><a href="modern.html">Modern Porcelain</a></li>
+                    <li><a style="background-color: skyblue;" href="traditional.html">Traditional Porcelain</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<section id="traditional">
+			<div class="container">
+				<h2>Traditional Porcelain</h2>
+				<p>Traditional porcelain refers to porcelain made using traditional techniques, often with a strong Chinese cultural and historical value. Here are some famous traditional porcelain brands:</p>
+				<ul>
+					<li>Jingdezhen Ceramics</li>
+					<li>Ru porcelain</li>
+					<li>Yixing Zisha teapot</li>
+					<li>Dehua porcelain</li>
+					<li>Dinghu Shan yellow pottery</li>
+					<li>Yiwu Luotuoshan cloisonné</li>
+				</ul>
+			</div>
+		</section>
+	</main>	
+
+</body>
+</html>

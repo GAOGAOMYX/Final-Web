@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Introduction to Chinese Porcelain - Modern Porcelain</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<h1>Introduction to Chinese Porcelain</h1>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="classification.html">Classification</a></li>
+					<li><a href="history.html">Porcelain History</a></li>
+					<li><a style="background-color: skyblue;" href="production.html">Porcelain Production</a></li>
+					<li><a href="modern.html">Modern Porcelain</a></li>
+                    <li><a href="traditional.html">Traditional Porcelain</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<section id="production">
+			<div class="container">
+				<h2>Ceramics Production Process</h2>
+				<p>The production process of Chinese ceramics is a complex and delicate process. The following are the steps of the ceramics production process:</p>
+				<ol>
+					<li>Raw material processing</li>
+					<li>Molding and shaping</li>
+					<li>Drying</li>
+					<li>Biscuit firing</li>
+					<li>Glazing and painting</li>
+					<li>Final firing</li>
+					<li>Inspection and storage</li>
+				</ol>
+			</div>
+		</section>
+	</main>
+	
+
+</body>
+</html>

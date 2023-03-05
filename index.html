@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Introduction to Chinese Porcelain - Home</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<header>
+		<div class="container">
+			<h1>Introduction to Chinese Porcelain</h1>
+			<nav>
+				<ul>
+					<li><a  style="background-color: skyblue;" href="index.html">Home</a></li>
+					<li><a href="classification.html">Classification</a></li>
+					<li><a href="history.html">Porcelain History</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<main>
+		<section id="home">
+			<div class="container">
+				<h2>Introduction to Chinese Porcelain</h2>					
+				<iframe  style="display:none" controls width="1280px" height="720px" id="video" src="https://www.youtube.com/embed/RpfyzAtSI6U" frameborder="0" allowfullscreen></iframe>
+				<h2 id="text" onclick="playVideo()">Click here to play video</h2>
+				<p>　　China is an ancient civilization, and in its long history, ceramics is one of the symbols of material and spiritual civilization. As far back as the early Neolithic period, more than 10,000 years ago, our ancestors invented pottery making on the Chinese land, making China one of the first countries in the world to make and use pottery.
+
+					<br>　　In the middle of the Shang Dynasty, more than 3,000 years ago, China was able to fire primitive porcelain. By the Eastern Han Dynasty, about 1800 years ago, real porcelain was invented. This is a glorious page written by our ancestors in the history of human civilization. From red pottery, gray pottery, colored pottery, black pottery, white pottery to primitive porcelain, celadon, black porcelain, white porcelain and colorful color glaze porcelain and colorful underglaze, overglaze porcelain, etc., showing the 10,000 years of continuous development of Chinese ceramics, which has become a miracle in the history of world crafts.
+					
+					<br>　　Since the Tang Dynasty, Chinese ceramics have been exported to other countries around the world, and its excellent porcelain-making techniques and brilliant artistic achievements have had a profound impact on the production of ceramics in many countries and have strongly promoted the development of ceramic culture in the world, which fully illustrates that China is worthy of the reputation of "porcelain country".</p>
+			</div>
+		</section>
+	</main>
+<script>
+	function playVideo() {
+  var text = document.getElementById("text");
+  var video = document.getElementById("video");
+  text.style.display = "none";
+  video.style.display = "block";
+  video.style.marginLeft = "-14%";
+  video.play();
+}
+</script>
+</body>
+
+</html>
